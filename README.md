@@ -4,4 +4,4 @@ We analyze the single-particle entanglement entropy of the 3D Anderson Model wit
 
 ## References
 <a id="1">[1]</a>
-Shekhar, D., & Shukla, P. (2025). Entanglement dynamics of many-body quantum states with evolving system conditions. arXiv preprint arXiv:2503.01989.
+Shekhar, D., & Shukla, P. (2025). Entanglement dynamics of many-body quantum states with evolving system conditions. arXiv preprint [arXiv:2503.01989](https://arxiv.org/abs/2503.01989).
