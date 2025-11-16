@@ -1,7 +1,7 @@
 # Entanglement Dynamics in 3D Anderson Model
 
-We analyze the single-particle entanglement entropy of the 3D Anderson Model with periodic boundary conditions. The Hamiltonian is diagonalized in `C` using the `SLEPc` library, and the eigenvectors and eigenvalues are calculated. The entanglement analysis and other measures are calculated in the `Julia` programming language. The aim is to give a single-parameter formulation of the entanglement dynamics; see the paper [[1]](#1).
+We analyze the single-particle entanglement entropy of the 3D Anderson Model with periodic boundary conditions. In `buildAnd.c`, the Hamiltonian is diagonalized in `C` using the `SLEPc` library, and the eigenvectors and eigenvalues are calculated. The entanglement analysis and other measures are calculated in the `Julia` programming language. The aim is to give a single-parameter formulation of the entanglement dynamics; see the paper [[1]](#1).
 
 ## References
 <a id="1">[1]</a>
-Shekhar, D., & Shukla, P. (2025). Entanglement dynamics of many-body quantum states with evolving system conditions. arXiv preprint [arXiv:2503.01989](https://arxiv.org/abs/2503.01989).
+Shekhar, D., & Shukla, P. (2025). Single-particle entanglement dynamics in complex systems. arXiv preprint [arXiv:2503.01989](https://arxiv.org/abs/2503.01989v2).
